@@ -33,7 +33,7 @@ The data set of the bike buyers has been uploaded<a href="https://github.com/vjs
 <ul>Here the data will be scored</ul>
 <img src="https://github.com/vjsaairam/Bike-Buyer-Prediction/blob/main/images/scored%20dataset.png" heigth=500><br>
 <li>evaluate model</li><br>
-<ul>Here the data will be evaluated</ul>
+<ul>Here the evaluated data</ul>
 <img src="https://github.com/vjsaairam/Bike-Buyer-Prediction/blob/main/images/evaluation%20result.png" heigth=500><br>
 
 
